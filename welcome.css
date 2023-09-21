@@ -1,0 +1,38 @@
+body {
+      font-family: sans-serif;
+      background-image: url("1.jpg");
+      background-repeat: no-repeat;
+      background-size: 1367px 700px;
+    }
+
+    form {
+      width: 300px;
+      margin: 0 auto;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      background-color: #000;
+      color: #fff;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    .remember-me {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+
+    .forgot-password {
+      font-size: 12px;
+      text-align: right;
+    }
+    h1{
+      color: darkblue;
+    }
